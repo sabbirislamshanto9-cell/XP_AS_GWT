@@ -1,4 +1,0 @@
-requests
-pyjwt
-protobuf
-pycryptodome
